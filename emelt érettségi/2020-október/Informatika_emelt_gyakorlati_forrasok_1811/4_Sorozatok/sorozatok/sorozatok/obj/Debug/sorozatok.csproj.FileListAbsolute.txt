@@ -1,0 +1,7 @@
+C:\Users\d_kisben\source\repos\sorozatok\sorozatok\obj\Debug\sorozatok.csprojAssemblyReference.cache
+C:\Users\d_kisben\source\repos\sorozatok\sorozatok\obj\Debug\sorozatok.csproj.CoreCompileInputs.cache
+C:\Users\d_kisben\source\repos\sorozatok\sorozatok\bin\Debug\sorozatok.exe.config
+C:\Users\d_kisben\source\repos\sorozatok\sorozatok\bin\Debug\sorozatok.exe
+C:\Users\d_kisben\source\repos\sorozatok\sorozatok\bin\Debug\sorozatok.pdb
+C:\Users\d_kisben\source\repos\sorozatok\sorozatok\obj\Debug\sorozatok.exe
+C:\Users\d_kisben\source\repos\sorozatok\sorozatok\obj\Debug\sorozatok.pdb
